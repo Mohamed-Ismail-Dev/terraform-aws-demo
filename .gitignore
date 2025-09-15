@@ -20,4 +20,5 @@ crash.*.log
 
 # Lock file (optional — uncomment to exclude)
 #.terraform.lock.hcl
-
+*.tfvars
+aws/local_state/backend-*.conf
