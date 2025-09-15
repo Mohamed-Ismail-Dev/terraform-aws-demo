@@ -1,0 +1,23 @@
+# Terraform local files
+*.tfstate
+*.tfstate.*
+
+# Local Terraform directories
+.terraform/
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Sensitive variable files
+*.tfvars
+*.auto.tfvars
+
+# AWS credentials & keys
+*.pem
+*.key
+*.p12
+
+# Lock file (optional — uncomment to exclude)
+#.terraform.lock.hcl
+
