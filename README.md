@@ -87,7 +87,7 @@ Outputs (Instance Details)
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/terraform-aws-demo.git
+git clone https://github.com/Mohamed-Ismail-Dev/terraform-aws-demo.git
 cd terraform-aws-demo/aws/local_state
 ```
 
@@ -127,5 +127,5 @@ terraform output
 
 ## 🔗 Repository
 
-[GitHub: terraform-aws-demo](https://github.com/<your-username>/terraform-aws-demo)
+[GitHub: terraform-aws-demo](https://github.com/Mohamed-Ismail-Dev/terraform-aws-demo.git)
 
